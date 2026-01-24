@@ -1,0 +1,4 @@
+
+npx @opennextjs/cloudflare build        
+npx @opennextjs/cloudflare deploy
+
