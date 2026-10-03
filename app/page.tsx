@@ -8,8 +8,6 @@ import { Testimonials } from "@/components/testimonials"
 import { Contact } from "@/components/contact"
 import { Footer } from "@/components/footer"
 
-export const dynamic = "force-dynamic"
-
 export default function Home() {
   return (
     <main className="min-h-screen overflow-hidden">

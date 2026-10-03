@@ -16,7 +16,7 @@ const _cormorantGaramond = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://himalayamindfulnessretreat.com"),
+  metadataBase: new URL("https://himalayamindfulnessretreat.bt"),
   title: "Himalaya Mindfulness Retreat Tours & Travels - Discover Bhutan | Premium Tours",
   description:
     "Experience the magic of Bhutan with Himalaya Mindfulness Retreat Tours & Travels. Explore ancient monasteries, pristine valleys, and immerse yourself in Gross National Happiness. Book your transformative journey to the Last Himalayan Kingdom today.",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://himalayamindfulnessretreat.com",
+    url: "https://himalayamindfulnessretreat.bt",
     siteName: "Himalaya Mindfulness Retreat Tours & Travels",
     title: "Himalaya Mindfulness Retreat - Discover Bhutan Premium Tours",
     description:
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     images: ["/bhutan-tiger-s-nest-monastery-on-cliff-dramatic-mo.jpg"],
   },
   alternates: {
-    canonical: "https://himalayamindfulnessretreat.com",
+    canonical: "https://himalayamindfulnessretreat.bt",
   },
   icons: {
     icon: [
@@ -95,8 +95,6 @@ export const metadata: Metadata = {
     apple: "/apple-icon.png",
   },
 }
-
-export const dynamic = "force-dynamic"
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -126,7 +124,7 @@ export default function RootLayout({
               name: "Himalaya Mindfulness Retreat Tours & Travels",
               description:
                 "Premium Bhutan tour operator offering cultural experiences, trekking, spiritual journeys, and mindfulness retreats in the Land of the Thunder Dragon.",
-              url: "https://himalayamindfulnessretreat.com",
+              url: "https://himalayamindfulnessretreat.bt",
               telephone: "+975-17-123-456",
               email: "info@himalayamindfulness.com",
               address: {
